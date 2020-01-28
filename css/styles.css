@@ -200,6 +200,14 @@ footer>div>div>p, footer>div>div>p>a {
 	font-weight: bold;
 	cursor: pointer
 }
+#cat-and-mouse {
+	 font-size: 0.8em;
+	 margin-top: 0;
+}
+#cat-and-mouse:hover {
+	color: orange;
+	cursor: pointer;
+} 
 
 @media (max-width: 1200px) {
     .navbar-header {
